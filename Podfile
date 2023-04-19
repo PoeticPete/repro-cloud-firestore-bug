@@ -6,8 +6,7 @@ target 'TestTimeout' do
   use_frameworks!
 
   # Pods for TestTimeout
-    pod 'FirebaseCore'
-  pod 'FirebaseMessaging'
+  pod 'FirebaseCore'
   pod 'FirebaseFirestore'
 
   target 'TestTimeoutTests' do
